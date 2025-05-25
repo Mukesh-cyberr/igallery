@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:15-12-2024
+## Date:24-05-2024
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -142,7 +142,7 @@ Publish the website in the given URL.
     </div>
 
     <footer>
-        &copy; 2024 designed by K S Vinay Suhirthan[24901151]. All Rights Reserved.
+        &copy; 2024 designed by MUKESH RAJ D 212224100038 All Rights Reserved.
     </footer>
 
     <script>
@@ -178,7 +178,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-15 194755.png>)
+![alt text](<Screenshot 2025-05-25 222032-1.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
